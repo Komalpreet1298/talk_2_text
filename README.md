@@ -5,10 +5,15 @@ On-Device Speech-to-Text Model for Low-Latency Applications
 <b> 👥 Team Details </b>
 </br>
 Team Name: text2talk
+</br>
 Member 1: Niharika (niharika10092005@gmail.com)
+</br>
 Member 2: Avantika Panday (Er.avantikapandey@gmail.com)
+</br>
 Member 3: Gaytri Mehta (gayatri.mehta.au@gmail.com)
+</br>
 Member 4: Kashvi Sharma (kashvi.sharma5944@gmail.com)
+</br>
 Member 5: Komalpreet Kaur (@gmail.com)
 
 <b> 🧩 Problem Statement  </b>
