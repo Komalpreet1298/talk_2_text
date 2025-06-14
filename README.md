@@ -32,23 +32,33 @@ This innovation isn’t just about performance—it’s about inclusion. Whether
 <b> 🎯 Expected Outcome  </b>
 </br>
 Real-Time Speech-to-Text Conversion
+</br>
 Model Comparison & Benchmarking
+</br>
 Offline-First Functionality
+</br>
 Custom Use-Case Adaptation
 
 <b> 📅 Timeline & Milestones  </b>
 </br>
-Week 1: Research & Setup 
+Week 1: Research & Setup
+</br>
 Week 2: Preprocessing & Initial Integration
+</br>
 Week 3: Feature Expansion
+</br>
 Week 4: Evaluation and Optimization
+</br>
 Week 5: Finalization & Submission
 
 <b> 📦 Final Deliverables  </b>
 </br>
 Model benchmarks (latency, accuracy, resource usage)
+</br>
 A responsive web interface
+</br>
 A note summarization module
+</br>
 Comprehensive documentation
 
 <b> 📎 Appendix (Optional) </b>
