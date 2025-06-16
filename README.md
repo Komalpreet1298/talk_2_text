@@ -10,7 +10,7 @@ Member 1: Niharika (niharika10092005@gmail.com)
 </br>
 Member 2: Avantika Panday (Er.avantikapandey@gmail.com)
 </br>
-Member 3: Gaytri Mehta (gayatri.mehta.au@gmail.com)
+Member 3: Gayatri Mehta (gayatri.mehta.au@gmail.com)
 </br>
 Member 4: Kashvi Sharma (kashvi.sharma5944@gmail.com)
 </br>
