@@ -14,7 +14,7 @@ Member 3: Gaytri Mehta (gayatri.mehta.au@gmail.com)
 </br>
 Member 4: Kashvi Sharma (kashvi.sharma5944@gmail.com)
 </br>
-Member 5: Komalpreet Kaur (@gmail.com)
+Member 5: Komalpreet Kaur (komalindus987@gmail.com)
 
 <b> 🧩 Problem Statement  </b>
 </br>
