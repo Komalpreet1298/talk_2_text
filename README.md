@@ -1,6 +1,7 @@
-<b> 🧠 Project Title </b>
+<h3> 🧠 Project Title </h3>
 </br>
-On-Device Speech-to-Text Model for Low-Latency Applications 
+Discord
+🎙️ On-Device Speech-to-Text Model for Low-Latency Applications 
 
 <b> 👥 Team Details </b>
 </br>
