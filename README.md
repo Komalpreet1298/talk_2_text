@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9697997e-72e9-48ec-8ccc-c3c564356464" alt="TalkToText Logo" height="150" width="150"/>
 </p>
-
-<hr>
 <h1>🎙️ Discord On-Device Speech-to-Text Model for Low-Latency Applications</h1>
 
 <b> 👥 Team Details </b>
