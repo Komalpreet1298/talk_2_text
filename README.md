@@ -1,7 +1,4 @@
-<h3> 🧠 Project Title </h3>
-</br>
-Discord
-🎙️ On-Device Speech-to-Text Model for Low-Latency Applications 
+<h1>🎙️ Discord On-Device Speech-to-Text Model for Low-Latency Applications</h1>
 
 <b> 👥 Team Details </b>
 </br>
